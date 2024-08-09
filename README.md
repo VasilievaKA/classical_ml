@@ -1,1 +1,3 @@
-# classical_ml_library
+# Classical ML library 
+
+Library with classical ml algorithms. 
